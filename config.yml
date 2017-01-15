@@ -1,0 +1,4 @@
+languageCode: "nl-be"
+title: "Just Works bvba"
+baseURL: "https://justworks.be/"
+theme: "prototype"
